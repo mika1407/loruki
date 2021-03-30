@@ -51,6 +51,12 @@ pre {
   padding: 10px;
 }
 
+.hidden {
+  visibility: hidden;
+  height: 0;
+}
+
+
 .navbar{
   background-color: #047aed;
   color: #fff;
